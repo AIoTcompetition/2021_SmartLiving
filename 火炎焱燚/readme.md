@@ -57,7 +57,7 @@
 </pre>
 
 ## ✍️ 團隊成員
-<a href="https://github.com/cronus6w6"><img width="100" height="100" src="https://i.imgur.com/Jk0XvIU.png" title="陳威呈"></img></a> <a href="https://github.com/chihuahuamh"><img width="100" height="100" src="https://i.imgur.com/bzhPDXi.png"  title="洪敏嫻"></img></a> <a href="https://github.com/BREND3112317"><img width="100" height="100" src="https://i.imgur.com/vQKRu41.png"  title="林承漢"></img></a> <a href=""><img width="100" height="100" src="https://i.imgur.com/HStfyKI.png"  title="王裕民"></img></a>
+<a href="https://github.com/cronus6w6"><img width="100" height="100" src="https://i.imgur.com/Jk0XvIU.png" title="陳威呈"></img></a> <a href="https://github.com/chihuahuamh"><img width="100" height="100" src="https://i.imgur.com/bzhPDXi.png"  title="洪敏嫻"></img></a> <a href="https://github.com/BREND3112317"><img width="100" height="100" src="https://i.imgur.com/vQKRu41.png"  title="林承漢"></img></a> <a><img width="100" height="100" src="https://i.imgur.com/0CMrIkT.png"  title="郭卉蓁"></img></a> <a><img width="100" height="100" src="https://i.imgur.com/sqoy79A.png"  title="紀昀彤"></img></a> <a href="https://github.com/corn323"><img width="100" height="100" src="https://i.imgur.com/HStfyKI.png"  title="王裕民"></img></a>
 
 ## 🙏 致謝
 ### 人員
